@@ -1,22 +1,144 @@
-# sales-dashboard-powerbi
-Sales Dashboard built using Power BI with KPIs (Revenue, Profit, Region Performance, Category Analysis). Includes data cleaning using Power Query, DAX measures, and interactive visualizations.
+# 📊 Sales Performance Dashboard | Power BI
 
-### salesdata.csv
-This file contains the sample sales dataset used to build the Sales Dashboard in Power BI. 
-It includes the following fields:
-- Date
-- Region
-- Category
-- Sub-Category
-- Product
-- Quantity
-- Cost
-- Selling Price
-- Revenue
-- Profit
+## 📌 Project Overview
 
-The dataset is used for:
-- Data cleaning in Power Query
-- KPI calculation using DAX
-- Visualizations (Revenue, Profit, Region performance, Category analysis)
-- Creating interactive slicers and filters in Power BI
+This project presents a comprehensive **Sales Performance Dashboard** built using **Power BI** to analyze business performance across revenue, profit, regions, and product categories.
+The dashboard transforms raw sales data into meaningful insights that help businesses monitor growth, identify weak areas, and make data-driven decisions.
+
+This project demonstrates strong skills in **data cleaning, KPI building, DAX, and dashboard design** — essential for data analyst roles.
+
+---
+
+## 🎯 Business Objective
+
+Businesses generate large volumes of sales data but often struggle to extract actionable insights.
+The objective of this project is to:
+
+* Analyze overall sales performance
+* Identify top and low performing regions
+* Track profit trends and category performance
+* Provide interactive insights for decision making
+* Build a professional BI dashboard for stakeholders
+
+---
+
+## 📊 Dataset Description
+
+**Type:** Sample retail sales dataset
+**Level:** Transaction-level data
+
+### Key Columns:
+
+* Order Date
+* Region
+* Category
+* Sub-Category
+* Product Name
+* Sales
+* Quantity
+* Profit
+
+The dataset was cleaned and transformed before visualization.
+
+---
+
+## 🛠 Tools & Technologies Used
+
+* **Power BI** – Dashboard creation and visualization
+* **Power Query** – Data cleaning and transformation
+* **DAX** – KPI measures and calculated metrics
+* **Excel/CSV** – Data source
+* **GitHub** – Project documentation and version control
+
+---
+
+## 🧹 Data Cleaning & Preparation
+
+Data preprocessing was performed using Power Query:
+
+* Removed null and duplicate values
+* Corrected data types
+* Created new calculated columns
+* Standardized category and region fields
+* Structured dataset for analysis
+
+---
+
+## 📈 Key Performance Indicators (KPIs)
+
+The dashboard includes important business KPIs:
+
+* 💰 Total Revenue
+* 📊 Total Profit
+* 📦 Total Orders
+* 📉 Profit Margin
+* 🌍 Region-wise Sales
+* 🏆 Top Performing Categories
+* 📅 Monthly Sales Trend
+
+---
+
+## 📊 Dashboard Features
+
+### 1. Sales Overview
+
+* Total revenue and profit summary
+* Monthly sales trend
+* Overall business performance
+
+### 2. Region Analysis
+
+* Sales by region
+* Profit distribution across regions
+* Identify high and low performing areas
+
+### 3. Category & Product Analysis
+
+* Category-wise sales and profit
+* Top selling products
+* Sub-category performance
+
+### 4. Interactive Filters
+
+* Region filter
+* Category filter
+* Date filter
+  Allows dynamic analysis for better decision making.
+
+---
+
+## 🔍 Key Insights
+
+* Some regions generate high sales but low profit
+* Technology category contributes highest revenue
+* Certain sub-categories have high sales but low margins
+* Seasonal trends impact monthly revenue
+* Profitability varies significantly by region
+
+These insights help businesses optimize strategy and improve profitability.
+
+---
+
+## 📊 Dashboard Preview
+
+(Add dashboard screenshot here after uploading image)
+
+---
+
+## 📁 Repository Structure
+
+```
+sales-dashboard-powerbi/
+│
+├── data/
+│   └── sample_dataset.csv          # Dataset used for dashboard
+│
+├── images/
+│   └── dashboard_preview.png       # Dashboard screenshots
+│
+├── pbix/
+│   └── sales_dashboard.pbix        # Power BI dashboard file
+│
+├── README.md                       # Project documentation
+└── insights
+```
