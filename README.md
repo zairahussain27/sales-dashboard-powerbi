@@ -137,7 +137,7 @@ sales-dashboard-powerbi/
 │   └── dashboard_preview.png       # Dashboard screenshots
 │
 ├── pbix/
-│   └── sales_dashboard.pbix        # Power BI dashboard file
+│   └── sales_dashboard.pbix        # Power BI Sales dashboard file
 │
 ├── README.md                       # Project documentation
 └── insights
