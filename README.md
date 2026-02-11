@@ -122,6 +122,7 @@ These insights help businesses optimize strategy and improve profitability.
 ## 📊 Dashboard Preview
 
 <img width="1278" height="718" alt="image" src="https://github.com/user-attachments/assets/2316bc54-d6f6-4d3b-9f61-7a38a1abd10a" />
+<img width="1236" height="738" alt="image" src="https://github.com/user-attachments/assets/421fbaf9-5bca-4cd3-b024-45655d5c6fe4" />
 
 
 ---
